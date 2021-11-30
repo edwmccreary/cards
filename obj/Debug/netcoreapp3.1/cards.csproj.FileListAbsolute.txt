@@ -1,0 +1,13 @@
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\cards\bin\Debug\netcoreapp3.1\cards.exe
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\cards\bin\Debug\netcoreapp3.1\cards.deps.json
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\cards\bin\Debug\netcoreapp3.1\cards.runtimeconfig.json
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\cards\bin\Debug\netcoreapp3.1\cards.runtimeconfig.dev.json
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\cards\bin\Debug\netcoreapp3.1\cards.dll
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\cards\bin\Debug\netcoreapp3.1\cards.pdb
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\cards\obj\Debug\netcoreapp3.1\cards.csprojAssemblyReference.cache
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\cards\obj\Debug\netcoreapp3.1\cards.AssemblyInfoInputs.cache
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\cards\obj\Debug\netcoreapp3.1\cards.AssemblyInfo.cs
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\cards\obj\Debug\netcoreapp3.1\cards.csproj.CoreCompileInputs.cache
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\cards\obj\Debug\netcoreapp3.1\cards.dll
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\cards\obj\Debug\netcoreapp3.1\cards.pdb
+C:\Users\edwmc\Documents\Coding Dojo\CSharp\cards\obj\Debug\netcoreapp3.1\cards.genruntimeconfig.cache
